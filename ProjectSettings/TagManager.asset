@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pegada
+  - Fish
+  - ThePlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Terrain
+  - Player
+  - Sea
+  - Ship
+  - Fish
+  - ArpF
+  - ArpA
+  - Graphic
+  - Buildings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fish
+    uniqueID: 39321189
+    locked: 0
+  - name: Water
+    uniqueID: 498216775
+    locked: 0
+  - name: Terrain
+    uniqueID: 4113743783
+    locked: 0
+  - name: TerrainEffect
+    uniqueID: 4262501867
+    locked: 0
+  - name: Moveable
+    uniqueID: 1365555617
+    locked: 0
+  - name: UI
+    uniqueID: 2020798561
+    locked: 0
