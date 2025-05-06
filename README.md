@@ -11,4 +11,4 @@ Um simples jogo de pesca onde você pesca peixes e ganha dinheiro por eles infin
 </div>
 
 <!----------------------------------[ Links ]---------------------------------->
-[Banner]: github/banner.jpg
+[Banner]: github/banner.png
